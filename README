@@ -1,0 +1,2 @@
+In this project you will develop a client and server for a reliable file transfer application using
+UDP. The user of the application sends a local file to the server. The server will reassemble and save the file locally from the received client packets. The packets sent by the client may get re-ordered or lost in transit to the server.
